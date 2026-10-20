@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1776348437 source:d:\tarqm\downloads\files\address.cpp
+	"Address.h"
+
+1776348440 d:\tarqm\downloads\files\address.h
+	<string>
+
+1776708877 source:d:\tarqm\downloads\files\contact.cpp
+	"Contact.h"
+	<iostream>
+
+1776348446 d:\tarqm\downloads\files\contact.h
+	<vector>
+	<memory>
+	"Phone.h"
+	"Email.h"
+	"Address.h"
+
+1776691359 d:\tarqm\downloads\files\phone.h
+	<string>
+
+1776691840 d:\tarqm\downloads\files\email.h
+	<string>
+
+1776704421 source:d:\tarqm\downloads\files\email.cpp
+	"Email.h"
+	<regex>
+
+1776360888 source:d:\tarqm\downloads\files\main.cpp
+	"UI.h"
+
+1776717648 d:\tarqm\downloads\files\ui.h
+	<string>
+	"ContactsManager.h"
+	"Contact.h"
+	"Phone.h"
+	"Email.h"
+
+1776104187 d:\tarqm\downloads\files\ContactsManager.h
+	"Contact.h"
+
+1776104701 source:d:\tarqm\downloads\files\ContactsManager.cpp
+	"ContactsManager.h"
+	<fstream>
+	<iostream>
+
+1776691824 source:d:\tarqm\downloads\files\phone.cpp
+	"Phone.h"
+	<regex>
+
+1776721386 source:d:\tarqm\downloads\files\ui.cpp
+	"UI.h"
+	<iostream>
+	<algorithm>
+	<regex>
+	<cstdlib>
+
+1776705999 source:d:\tarqm\downloads\files\contactsmanager.cpp
+	"ContactsManager.h"
+	<fstream>
+	<iostream>
+
+1776720128 d:\tarqm\downloads\files\contactsmanager.h
+	"Contact.h"
+
+1776348437 source:c:\users\tarek negm\desktop\contacts manager - by tareknegm\address.cpp
+	"Address.h"
+
+1776348440 c:\users\tarek negm\desktop\contacts manager - by tareknegm\address.h
+	<string>
+
+1776708877 source:c:\users\tarek negm\desktop\contacts manager - by tareknegm\contact.cpp
+	"Contact.h"
+	<iostream>
+
+1776348446 c:\users\tarek negm\desktop\contacts manager - by tareknegm\contact.h
+	<vector>
+	<memory>
+	"Phone.h"
+	"Email.h"
+	"Address.h"
+
+1776691359 c:\users\tarek negm\desktop\contacts manager - by tareknegm\phone.h
+	<string>
+
+1776691840 c:\users\tarek negm\desktop\contacts manager - by tareknegm\email.h
+	<string>
+
+1776721718 source:c:\users\tarek negm\desktop\contacts manager - by tareknegm\contactsmanager.cpp
+	"ContactsManager.h"
+	<fstream>
+	<iostream>
+
+1776720128 c:\users\tarek negm\desktop\contacts manager - by tareknegm\contactsmanager.h
+	"Contact.h"
+
+1776704421 source:c:\users\tarek negm\desktop\contacts manager - by tareknegm\email.cpp
+	"Email.h"
+	<regex>
+
+1776360888 source:c:\users\tarek negm\desktop\contacts manager - by tareknegm\main.cpp
+	"UI.h"
+
+1776717648 c:\users\tarek negm\desktop\contacts manager - by tareknegm\ui.h
+	<string>
+	"ContactsManager.h"
+	"Contact.h"
+	"Phone.h"
+	"Email.h"
+
+1776691824 source:c:\users\tarek negm\desktop\contacts manager - by tareknegm\phone.cpp
+	"Phone.h"
+	<regex>
+
+1776811213 source:c:\users\tarek negm\desktop\contacts manager - by tareknegm\ui.cpp
+	"UI.h"
+	<iostream>
+	<algorithm>
+	<regex>
+	<cstdlib>
+
+1777537206 source:d:\vscode workspace\oop\contacts manager - by tareknegm\main.cpp
+	"UI.h"
+
+1776947409 d:\vscode workspace\oop\contacts manager - by tareknegm\ui.h
+	<string>
+	"ContactsManager.h"
+	"Contact.h"
+	"Phone.h"
+	"Email.h"
+
+1776944110 d:\vscode workspace\oop\contacts manager - by tareknegm\contactsmanager.h
+	"Contact.h"
+
+1776943538 d:\vscode workspace\oop\contacts manager - by tareknegm\contact.h
+	<vector>
+	<memory>
+	"Phone.h"
+	"Email.h"
+	"Address.h"
+
+1776943399 d:\vscode workspace\oop\contacts manager - by tareknegm\phone.h
+	<string>
+
+1776943420 d:\vscode workspace\oop\contacts manager - by tareknegm\email.h
+	<string>
+
+1776942992 d:\vscode workspace\oop\contacts manager - by tareknegm\address.h
+	<string>
+
+1776943103 source:d:\vscode workspace\oop\contacts manager - by tareknegm\address.cpp
+	"Address.h"
+
+1776945144 source:d:\vscode workspace\oop\contacts manager - by tareknegm\contact.cpp
+	"Contact.h"
+	<iostream>
+
+1776945876 source:d:\vscode workspace\oop\contacts manager - by tareknegm\contactsmanager.cpp
+	"ContactsManager.h"
+	<fstream>
+	<iostream>
+
+1776943420 source:d:\vscode workspace\oop\contacts manager - by tareknegm\email.cpp
+	"Email.h"
+	<regex>
+
+1776943399 source:d:\vscode workspace\oop\contacts manager - by tareknegm\phone.cpp
+	"Phone.h"
+	<regex>
+
+1777538719 source:d:\vscode workspace\oop\contacts manager - by tareknegm\ui.cpp
+	"UI.h"
+	<iostream>
+	<regex>
+
